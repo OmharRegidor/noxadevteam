@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "omhar",
+  "description": "Omhar's personal Claude Code plugin marketplace",
+  "owner": {
+    "name": "OmharRegidor",
+    "url": "https://github.com/OmharRegidor"
+  },
+  "plugins": [
+    {
+      "name": "noxadevteam",
+      "description": "Noxa's Dev Team - 9 senior specialist personas (PM, Frontend, Backend, Security, QA, DevOps, UI/UX, Mobile, Product) who review code together or solo.",
+      "source": ".",
+      "category": "code-review",
+      "homepage": "https://github.com/OmharRegidor/noxadevteam"
+    }
+  ]
+}

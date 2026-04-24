@@ -1,0 +1,24 @@
+{
+  "name": "noxadevteam",
+  "description": "Noxa's Dev Team - 9 senior specialist personas for Claude Code. Spawns a coordinated multi-agent code review or run any specialist solo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OmharRegidor",
+    "url": "https://github.com/OmharRegidor"
+  },
+  "homepage": "https://github.com/OmharRegidor/noxadevteam",
+  "repository": "https://github.com/OmharRegidor/noxadevteam",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "multi-agent",
+    "team",
+    "review",
+    "frontend",
+    "backend",
+    "security",
+    "qa",
+    "devops",
+    "ui-ux"
+  ]
+}
